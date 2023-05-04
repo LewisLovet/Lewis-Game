@@ -1,5 +1,6 @@
 # Lewis-Game
 In this repository you will find games that I have created from tutos or from me. 
+Here are some features you will find on the unity Game :
 You lose health if you touch ennemis.
 You can kill ennemis by jumping over their head.
 You can take hearts to heal you only if you are under 100% life.
